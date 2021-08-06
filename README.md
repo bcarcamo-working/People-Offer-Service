@@ -10,7 +10,7 @@ _Te recomiendo corre Eclipse ya que soporta PHP hasta la version 7._
 
 ### Pre-requisitos 📋
 
-_Debes tener instalando eclipse y PHP ver 7 en este proyecto se utiliza el framework Laravel y todo lo que implica su uso,
+_Debes tener instalando eclipse y PHP ver 7 en este proyecto se utiliza el framework Laravel, CodeIgniter , Artisan,
 ademas de utilizar una bd MySql_
 
 ```
